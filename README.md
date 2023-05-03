@@ -1,4 +1,4 @@
-This is an interactive project made by Dhakshayan. A.
+This is an interactive project made by Dhakshayan. A from 1st year CSE.
 This showcases the usage HTML, CSS and JavaScript for an interactive and easy online booking of shows.
 This project shows the various use cases of different HTML tags, CSS styles and JavaScript objects.
 The Movie-Booking project consists mainly of 3 different webpages linked together by anchor tags:-
